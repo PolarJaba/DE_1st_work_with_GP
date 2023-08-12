@@ -10,6 +10,10 @@
 
 Включен встроенный оптимизатор GP и сделан запрос, который рассчитывает сумму продаж определенного товара за определенную единицу времени (скрипты также в [файле](https://github.com/PolarJaba/DE_1st_work_with_GP/blob/main/scripts.sql)). 
 
-В результате получены таблицы (для наглядности получена также таблица с суммой от продаж каждого из товаров за определенную единицу времени):
+В результате получены таблицы (для наглядности приведена также таблица с суммой от продаж каждого из товаров за определенную единицу времени):
 
 ![all_products](https://github.com/PolarJaba/DE_1st_work_with_GP/blob/main/all_products.PNG) ![one_product](https://github.com/PolarJaba/DE_1st_work_with_GP/blob/main/one_product.PNG)
+
+Получен план запроса:
+
+![query_plan](https://github.com/PolarJaba/DE_1st_work_with_GP/blob/main/query_plan.PNG)
